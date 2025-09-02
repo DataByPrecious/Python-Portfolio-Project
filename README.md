@@ -65,8 +65,17 @@ To view and run this analysis yourself, follow these steps:
 
 -----
 
+## 🛠️ License
 
+This project is licensed under the [MIT License](LICENSE).You are free to use, modify, and share this project with proper attribution
 
+---
 
+## 📮 Contact
+
+Hi there! I'm **Okoroh Precious**, also known as **DataByPrecious**, I am a Data Analyst on a mission to share knowledge and project materials.
+  [GitHub Profile](https://github.com/DataByPrecious)
+
+---
 
 **Note:** Please replace `[your_notebook_name].ipynb` with the actual file name of your Jupyter Notebook. You can also add a "Technologies Used" section if you want to highlight the libraries more prominently.
