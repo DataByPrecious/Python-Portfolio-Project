@@ -22,7 +22,7 @@ The analysis is based on a dataset containing 15,000 rows and 8 columns of custo
   - `state`: The customer's geographical location.
   - `week`: The week of the sales campaign.
 ---
-## Analysis and Findings
+## 📊 Analysis and Findings
 
 The project includes an in-depth exploratory analysis and key business metrics to track performance.
 
@@ -34,6 +34,7 @@ The project includes an in-depth exploratory analysis and key business metrics t
       - **Email + Call:** 2,572 customers
   - **Overall Revenue Distribution:** A boxplot and histogram provide a clear visualization of the overall revenue distribution, highlighting the spread and central tendency of the data.
 ---
+
 ### 2\. Business Metrics and Insights
 
   - **Average Revenue per Customer by Sales Method:** A critical metric, "Average Revenue per Customer per Sales Effort" (ARCPSE), was defined and calculated to compare the efficiency of each method.
@@ -42,6 +43,7 @@ The project includes an in-depth exploratory analysis and key business metrics t
       - **Email + Call:** $185.65
   - **Revenue per Customer over Time:** A line plot visualizes the average revenue per customer for each sales method over the six-week period. The `Email + Call` method showed a strong performance trend.
 ---
+
 ## Conclusion and Recommendations
 
 Based on the analysis, the following conclusions and recommendations are drawn:
@@ -51,6 +53,7 @@ Based on the analysis, the following conclusions and recommendations are drawn:
 3.  The `Call` method, while less effective in terms of revenue, may still be valuable for customer engagement and should not be entirely discarded.
 4.  Further analysis and investment in optimizing the `Email` and `Email + Call` campaigns are recommended to maximize customer engagement and revenue generation.
 ---
+
 ## How to View the Project
 
 To view and run this analysis yourself, follow these steps:
@@ -67,7 +70,7 @@ To view and run this analysis yourself, follow these steps:
 
 ## 🛠️ License
 
-This project is licensed under the [MIT License](LICENSE).You are free to use, modify, and share this project with proper attribution
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution
 
 ---
 
@@ -77,5 +80,6 @@ Hi there! I'm **Okoroh Precious**, also known as **DataByPrecious**, I am a Data
   [GitHub Profile](https://github.com/DataByPrecious)
 
 ---
+
 
 **Note:** Please replace `[your_notebook_name].ipynb` with the actual file name of your Jupyter Notebook. You can also add a "Technologies Used" section if you want to highlight the libraries more prominently.
