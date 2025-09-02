@@ -1,7 +1,7 @@
 # Python-Portfolio-Project
-This project involves performing a comprehensive data analysis using the dataset provided and presenting the findings to the business. The analysis is designed to support the sales team by uncovering insights about customer behavior, sales patterns, and business performance Using Python for data Validation, Exploratory Data Analysis (EDA) et.c.
+This project involves performing a comprehensive data analysis using the dataset provided and presenting the findings to the business. The analysis is designed to support the sales team by uncovering insights about customer behavior, sales patterns, and business performance using Python for data Validation, Exploratory Data Analysis (EDA) et.c.
 
-## Sales Method Performance Analysis
+##  📘 Sales Method Performance Analysis
 
 This repository contains a data analysis project conducted in a Jupyter Notebook, examining the performance of different sales methods for a new product launch. The analysis leverages Python and popular data science libraries to provide data-driven insights and strategic recommendations.
 
